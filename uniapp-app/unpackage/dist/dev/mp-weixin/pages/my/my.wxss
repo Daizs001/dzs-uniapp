@@ -1,0 +1,46 @@
+/* 水平间距 */
+/* 水平间距 */
+.my {
+  background: linear-gradient(to top, #fafafa 45%, #d2302c 80%, #d2302c 100%);
+}
+.my .user-achieve {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+}
+.my .user-achieve .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.my .user-achieve .item .number {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+.my .user-achieve .item .desc {
+  color: white;
+  font-size: 14px;
+  line-height: 26px;
+}
+.my .opr-list {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.my .opr-list .item {
+  width: 24%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.my .opr-list .item text {
+  font-size: 12px;
+  color: #404040;
+  margin-top: 3px;
+}

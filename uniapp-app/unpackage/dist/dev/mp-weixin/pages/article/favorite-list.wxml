@@ -1,0 +1,1 @@
+<view><m-card wx:for="{{a}}" wx:for-item="item" wx:key="b" bindtap="{{item.a}}" u-i="{{item.c}}" bind:__l="__l" u-p="{{item.d}}"></m-card></view>

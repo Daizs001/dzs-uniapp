@@ -1,0 +1,1 @@
+<view class="card"><view class="author"><image class="avatar" src="{{a}}" mode="widthFix"></image><text>{{b}}</text></view><view class="title">{{c}}</view><view class="bottom"><view class="">{{d}}</view><view class=""><text>{{e}}阅读</text><text>·</text><text>{{f}}点赞</text><text>·</text><text>{{g}}收藏</text></view></view></view>

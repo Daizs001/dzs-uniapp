@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收藏夹",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "m-card": "../../components/global/m-card"
+  }
+}

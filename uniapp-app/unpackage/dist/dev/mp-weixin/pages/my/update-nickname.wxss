@@ -1,0 +1,7 @@
+/* 水平间距 */
+/* 水平间距 */
+.nickname {
+  border-bottom: 1px solid #e89a98;
+  padding: 10px;
+  font-size: 16px;
+}

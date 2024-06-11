@@ -1,0 +1,1 @@
+<view style="padding:50px 20px 0"><input type="text" class="nickname" value="{{a}}" bindinput="{{b}}"/><view style="padding:0 10px;color:gray;font-size:14px;margin:10px 0 50px"> 好昵称可以让大家更容易记住你 </view><button bindtap="{{c}}" type="primary" disabled="{{d}}" class="round-button">保 存</button></view>

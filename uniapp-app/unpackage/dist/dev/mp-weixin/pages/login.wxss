@@ -1,0 +1,29 @@
+/* 水平间距 */
+/* 水平间距 */
+.form-view {
+  padding: 30px 30px 10px;
+}
+.other-view {
+  padding: 0 30px;
+  display: flex;
+  justify-content: space-between;
+  color: blue;
+}
+.bottom-view {
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 50px;
+  padding: 0 30px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.bottom-view .icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 23px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

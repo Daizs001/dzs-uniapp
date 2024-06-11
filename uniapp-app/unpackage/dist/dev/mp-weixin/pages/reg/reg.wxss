@@ -1,0 +1,17 @@
+/* 水平间距 */
+/* 水平间距 */
+.reg-view {
+  padding: 20px;
+}
+.reg-view .avatar {
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  background-color: gray;
+  border-radius: 28px;
+  box-shadow: 0 0 5px gray;
+}
+.reg-view .avatar image {
+  width: 56px;
+  height: 56px;
+}

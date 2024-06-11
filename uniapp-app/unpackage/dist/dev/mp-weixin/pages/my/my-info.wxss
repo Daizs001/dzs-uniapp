@@ -1,0 +1,19 @@
+/* 水平间距 */
+/* 水平间距 */
+.item {
+  border-bottom: 1px solid #eeeeee;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  color: #333333;
+}
+.item .value {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.item .value text {
+  margin-left: 10px;
+}
